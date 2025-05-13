@@ -80,7 +80,6 @@ src/
 - 1-minute cache invalidation for fresh data
 - Skeleton loading states for better UX
 - Optimized image loading with Next.js Image component
-- Dark mode support for reduced eye strain
 
 ## Development
 
